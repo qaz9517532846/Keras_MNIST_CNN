@@ -2,8 +2,8 @@
 How to run MNIST from image using Keras CNN.
 
 Image data: [here](https://github.com/mrlittlepig/ImageProcessing/tree/master/MNIST_data)
-Library : tensorflow, keras, numpy, opencv, matplotlib
 
+Library : tensorflow, keras, numpy, opencv, matplotlib
 
 Step1. Read image data transform to numpy, save numpy file.
 ``` bash
