@@ -15,7 +15,7 @@ Step2. train image using CNN.
 tf_MNIST_3.py
 ```
 
-Step2. Predict number from image using CNN.
+Step3. Predict number from image using CNN.
 ``` bash
 MNIST_predict.py
 ```
